@@ -1,0 +1,6 @@
+# /etc/hosts
+
+127.0.0.1		localhost
+
+184.106.167.212		puppetmaster
+184.106.133.89		puppet1
